@@ -4,6 +4,6 @@ Simple Exponential Smoothing
 Double Exponential Smoothing( Holt's method)           
 Tripple Exponential Smoothing(Holt-Winters method)      
 Finding the order(p,d,q) using ACF and PACF     
-ARIMA
+ARIMA     
 Descriptive test for stationarity like Augmented Dicky-fuller test      
 SARIMA,SARIMAX      
