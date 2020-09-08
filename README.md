@@ -7,3 +7,5 @@ Finding the order(p,d,q) using ACF and PACF
 ARIMA     
 Descriptive test for stationarity like Augmented Dicky-fuller test      
 SARIMA,SARIMAX      
+VAR and VARMA
+Keras
